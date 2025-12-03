@@ -206,12 +206,11 @@ oppia-search-bar .oppia-input-group {
     color: #fff;
     height: 40px;
     margin-left: 3px;
-    margin-top: 0px;
+    margin-top: -60px;
     max-width: none;
     padding: 8px 7px 0 6px;
     text-align: center;
     width: 155px;
-    position: relative;
   }
   .oppia-search-bar-input.btn:hover,
   .oppia-search-bar-input.btn:focus {
